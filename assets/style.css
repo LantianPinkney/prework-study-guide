@@ -7,7 +7,7 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
+    background-color: palevioletred;
     color: white;
 }
 
@@ -39,4 +39,12 @@ p {
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
+  }
+
+  nav{
+    display: block;
+    padding: 25px;
+    background-color: blanchedalmond;
+    margin: 40px auto;
+    color: palevioletred;
   }
